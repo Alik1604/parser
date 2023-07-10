@@ -1,0 +1,14 @@
+{
+  "display": "Node 18",
+  "compilerOptions": {
+    "lib": ["es2015", "dom"],
+    "module": "commonjs",
+    "target": "es2022",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node"
+  },
+ // "include": ["src/**/*", "node_modules/@types/puppeteer/index.d.ts"]
+}
